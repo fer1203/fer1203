@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola!+Bienvenido+a+mi+perfil+👋;Soy+Estudiante+de+Ingeniería+Informática,;Iniciando+mi+camino+en+el+mundo+profesional,;Apasionado+por+la+tecnología+y+el+desarrollo,;Aprendiendo+cada+día+algo+nuevo,;Construyendo+mis+primeros+proyectos+🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola!+Bienvenid@s+a+mi+perfil+👋;Soy+Estudiante+de+Ingeniería+Informática,;Iniciando+mi+camino+en+el+mundo+profesional,;Apasionado+por+la+tecnología+y+el+desarrollo,;Aprendiendo+cada+día+algo+nuevo,;Construyendo+mis+primeros+proyectos+🚀">
   </a>
 </p>
 
@@ -76,17 +76,7 @@
 <br>
 <div align='left'>
 
-<ul>
 
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
 <a href="https://twitter.com/0xabdulkhalid" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
